@@ -1,106 +1,106 @@
-iso_n3,count
-840,1901
-276,1567
-826,1424
-156,1319
-250,1178
-36,1100
-124,1030
-616,729
-724,668
-528,665
-752,538
-410,447
-804,389
-380,373
-392,342
-76,326
-643,320
-208,268
-756,262
-484,259
-578,257
-40,256
-246,242
-56,222
-364,211
-376,205
-344,198
-818,187
-348,175
-710,172
-372,168
-554,158
-203,143
-703,122
-688,115
-112,100
-788,98
-764,89
-300,89
-566,78
-192,76
-620,69
-12,65
-352,63
-70,59
-32,51
-414,48
-158,47
-404,46
-388,38
-440,28
-31,28
-504,27
-792,27
-400,25
-170,23
-860,23
-191,23
-233,19
-862,19
-705,17
-100,15
-428,15
-716,15
-234,13
-368,13
-356,11
-96,10
-458,8
-516,8
-24,8
-591,8
-442,6
-196,6
-780,6
-604,5
-384,5
-630,5
-702,5
-44,5
-682,4
-704,4
-104,4
-608,3
-275,3
-498,3
-496,2
-586,2
-144,2
-398,2
-634,2
-231,2
-729,1
-858,1
-214,1
-646,1
-72,1
-598,1
-508,1
-132,1
-800,1
-152,1
-242,1
-760,1
-418,1
+iso_n3,country_name,count
+840,United States of America,1901
+276,Germany,1567
+826,United Kingdom of Great Britain and Northern Ireland,1424
+156,China,1319
+250,France,1178
+36,Australia,1100
+124,Canada,1030
+616,Poland,729
+724,Spain,668
+528,"Netherlands, Kingdom of the",665
+752,Sweden,538
+410,"Korea, Republic of",447
+804,Ukraine,389
+380,Italy,373
+392,Japan,342
+76,Brazil,326
+643,Russian Federation,320
+208,Denmark,268
+756,Switzerland,262
+484,Mexico,259
+578,Norway,257
+40,Austria,256
+246,Finland,242
+56,Belgium,222
+364,"Iran, Islamic Republic of",211
+376,Israel,205
+344,Hong Kong,198
+818,Egypt,187
+348,Hungary,175
+710,South Africa,172
+372,Ireland,168
+554,New Zealand,158
+203,Czechia,143
+703,Slovakia,122
+688,Serbia,115
+112,Belarus,100
+788,Tunisia,98
+764,Thailand,89
+300,Greece,89
+566,Nigeria,78
+192,Cuba,76
+620,Portugal,69
+12,Algeria,65
+352,Iceland,63
+70,Bosnia and Herzegovina,59
+32,Argentina,51
+414,Kuwait,48
+158,"Taiwan, Province of China",47
+404,Kenya,46
+388,Jamaica,38
+440,Lithuania,28
+31,Azerbaijan,28
+792,Türkiye,27
+504,Morocco,27
+400,Jordan,25
+170,Colombia,23
+860,Uzbekistan,23
+191,Croatia,23
+233,Estonia,19
+862,"Venezuela, Bolivarian Republic of",19
+705,Slovenia,17
+428,Latvia,15
+716,Zimbabwe,15
+100,Bulgaria,15
+368,Iraq,13
+234,Faroe Islands,13
+356,India,11
+96,Brunei Darussalam,10
+24,Angola,8
+458,Malaysia,8
+591,Panama,8
+516,Namibia,8
+196,Cyprus,6
+780,Trinidad and Tobago,6
+442,Luxembourg,6
+384,Côte d'Ivoire,5
+44,Bahamas,5
+702,Singapore,5
+630,Puerto Rico,5
+604,Peru,5
+704,Viet Nam,4
+104,Myanmar,4
+682,Saudi Arabia,4
+498,"Moldova, Republic of",3
+608,Philippines,3
+275,"Palestine, State of",3
+398,Kazakhstan,2
+231,Ethiopia,2
+144,Sri Lanka,2
+634,Qatar,2
+586,Pakistan,2
+496,Mongolia,2
+214,Dominican Republic,1
+72,Botswana,1
+242,Fiji,1
+132,Cabo Verde,1
+152,Chile,1
+598,Papua New Guinea,1
+508,Mozambique,1
+418,Lao People's Democratic Republic,1
+646,Rwanda,1
+729,Sudan,1
+760,Syrian Arab Republic,1
+800,Uganda,1
+858,Uruguay,1
