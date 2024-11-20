@@ -1,4 +1,4 @@
-gender,event,medal,athlete,alpha-3,country,grp_id,type,year,guide,country_name,iso_n3
+gender,event,medal,athlete,alpha_3,country,grp_id,type,year,guide,country_name,iso_n3
 Men,Double FITA Round Amputee,Gold,LARSEN Finn,DNK,,,Archery,1980,,Denmark,208
 Men,Double FITA Round Amputee,Silver,BRENNE Manfred,DEU,,,Archery,1980,,Germany,276
 Men,Double FITA Round Amputee,Bronze,SATO Masao,JPN,,,Archery,1980,,Japan,392
